@@ -66,7 +66,7 @@ let mySprite = sprites.create(img`
 mySprite.setPosition(50, 160)
 scene.cameraFollowSprite(mySprite)
 controller.moveSprite(mySprite)
-music.setVolume(58)
+music.setVolume(19)
 music.baDing.play()
 game.onUpdate(function () {
 	
