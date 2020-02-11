@@ -1,0 +1,21 @@
+{
+    "name": "TileMap",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "edge-connector": "*",
+        "feather": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
